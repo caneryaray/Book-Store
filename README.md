@@ -1,4 +1,5 @@
-[<img width="543" height="635" alt="image" src="https://github.com/user-attachments/assets/541d2ee0-3a54-4c8b-aa95-73de867b04d7" />](https://chatgpt.com/s/m_69c53270b68081919cdee58b7c4f71b7)
+![Uploading ff297528-e0fc-42aa-8145-2e88d9ef270c.png…]()
+
 Book Store
 
 Book Store, React ve Vite kullanılarak geliştirilmiş bir kitap satış uygulamasıdır. Kullanıcılar kitapları görebilir, sepete ekleyebilir, sepetten çıkarabilir ve sepetteki ürün bilgileri localStorage ile saklanır.
